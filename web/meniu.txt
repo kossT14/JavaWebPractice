@@ -1,0 +1,11 @@
+<hr noshade="noshade" size="2" />
+
+<h3 allign="right"> 
+   
+ 	<a href="index.html">Pagina principal&#259;</a>
+   
+ 	<a href="#sus"> Sus </a>
+
+</h3>
+
+<%-- Comentariu JSP --%>
